@@ -84,16 +84,12 @@ console.log(array [10-8]); //Acessa uma posição por uma conta
 // console.log(matriz[1][3])
 
 
-for(let count = 1; count <= 10; count++){
-    for(let count1=0; count1<=10; count1++){
-        let linha = count 
-        let coluna = count1
-        let array = [
-            [linha]
-            [coluna]
-        ];
-        console.log(`${array}`)
+  for (let i = 1; i <= 10; i++) {
+    for(let num2 = 1; num2 <= 10; num2++){
+        console.log (`${i} * ${num2} = ${i * num2}`)
     }
-}
+  }
+
+
  
 
