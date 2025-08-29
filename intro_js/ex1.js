@@ -11,7 +11,7 @@ tabuada (9);
 // exercicio 3 fibonnaci.
 function fin(limit) {
     let start = 1;
-    let end = 0;
+    let end = 0;]][]
     let sequence = 0;
 
     console.log(`Os ${limit} primeiros números da sequência de Fibonacci são:`);
